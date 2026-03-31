@@ -33,4 +33,4 @@ This project is a **3D car racing and shooting game** developed using Python and
 - GLUT  
 
 ## File Included
-- `project.py` → Main game source code  
+- `3D Car Racing Project.py` → Main game source code  
